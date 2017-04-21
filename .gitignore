@@ -1,3 +1,8 @@
 /TrackUnit/Firmware/RoverDriver.X/nbproject/private/
 /TrackUnit/Firmware/RoverDriver.X/build/default/
 /TrackUnit/Firmware/RoverDriver.X/dist/default/
+*.bbprojectsettings
+
+*.bbprojectsettings
+
+*.properties
